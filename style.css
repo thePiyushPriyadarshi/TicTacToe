@@ -74,18 +74,12 @@
  .win{
    background-color: rgba(0, 255, 0, 0.55);
  }
- .footer{
+ .footer-container{
    background-color: black;
    height: 5vh;
    display: flex;
    align-items: center;
    justify-content: center; 
-   color: white;
-   text-align: center;
+   color: white; 
    font-family: cursive;
- }
- @media(max-width: 768px) {
-   	.wrapper{
-         height: 95vh;
-      }
  }
